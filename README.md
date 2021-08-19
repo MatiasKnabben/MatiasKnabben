@@ -16,7 +16,7 @@
   
   <br>
   
-  <h4>Essas são algumas linguagens que utilizo atualmente</h4>
+  <h4>Essas são algumas linguagens/frameworks que utilizo atualmente</h4>
   
   <div style="display: inline_block">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
